@@ -7,7 +7,7 @@ describe('Tests matemáticos', () => {
   });
 
   test('la multiplicación debe ser mayor o igual a 10', () => {
-    expect(multiplicar(5, 2)).toBeGreaterThanOrEqual(10);
+    expect(multiplicar(5, 1)).toBeGreaterThanOrEqual(10);
   });
 
 });
