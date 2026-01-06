@@ -2,7 +2,7 @@ name: Node Jest Tests
 
 on:
   push:
-    branches: [ "desarrollo" ]
+    branches: desarrollo
 
 jobs:
   test:
