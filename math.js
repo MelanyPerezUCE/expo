@@ -3,5 +3,6 @@ export function sumar(a, b) {
 }
 
 export function multiplicar(a, b) {
+  
   return a * b;
 }
